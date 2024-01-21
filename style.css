@@ -86,6 +86,7 @@ li a{
     &:hover{
         background-color: orangered;
         color: white;
+        transition: 2s;
 
     }
 }
@@ -229,9 +230,11 @@ li a{
     color: black;
     font-weight: bold;
 
+
     &:hover{
         background-color: orangered;
         color: white;
+        transition: 2s;
 
     }
 }
@@ -324,12 +327,13 @@ li a{
         border: 3px solid orangered;
         color: black;
         font-weight: bold;
-        margin-right: 163px;
+        margin-right: 185px;
         margin: 15px;
         &:hover{
             background-color: orangered;
             color: white;
-    
+        transition: 2s;
+            
         }
     }
  
